@@ -9,7 +9,7 @@ public class HelloWorldTest {
 
         HelloWorld helloWorld= new HelloWorld();
         String s = helloWorld.helloWorld();
-        Assertions.assertEquals("Hello World!", s);
+        Assertions.assertEquals("Hello World modified!", s);
 
     }
 
