@@ -4,6 +4,6 @@
 public class HelloUniverse {
 
     public String helloUniverse(){
-        return "HelloUniverse!";
+        return "Hello Universe !";
     }
 }
